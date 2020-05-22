@@ -1,2 +1,0 @@
-# JavaCompiler
-Java Compiler Implementation
