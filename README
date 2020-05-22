@@ -1,6 +1,4 @@
-The Language
-
-The language is based on the fragments in Chapter 6: expressions, arrays,
+Expressions, arrays,
 boolean expressions, statements, declarations, blocks:
 
 P  ->  { DD SS }
